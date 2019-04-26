@@ -1,4 +1,4 @@
-package com.yhj.reptile.web.util;
+package com.yhj.reptile.web.crawlers;
 
 import cn.wanghaomiao.seimi.annotation.Crawler;
 import cn.wanghaomiao.seimi.def.BaseSeimiCrawler;
